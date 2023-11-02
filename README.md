@@ -1,1 +1,2 @@
 # Drum-Kit
+Drum Kit Project: Experience the rhythm with this interactive web development project built using HTML, CSS, and JavaScript. This Drum Kit allows you to unleash your inner percussionist by providing a virtual drum set that you can play simply by clicking or using keyboard keys. Explore the world of beats and create your own unique tunes, making it a perfect addition to your GitHub portfolio.
